@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ViewController.swift That was the first name
 //  RickAndMorty
 //
 //  Created by Vova Lincore on 10.11.2023.

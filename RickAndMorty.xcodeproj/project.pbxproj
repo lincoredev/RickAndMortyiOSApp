@@ -140,8 +140,8 @@
 		4FB39AC72AFE2B3E00A06DA8 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				4FB39ACE2AFE2B8900A06DA8 /* RMSettingsViewController.swift */,
 				4FB39AAA2AFE230200A06DA8 /* RMTabViewController.swift */,
+				4FB39ACE2AFE2B8900A06DA8 /* RMSettingsViewController.swift */,
 				4FB39AC82AFE2B6B00A06DA8 /* RMCharacterViewController.swift */,
 				4FB39ACA2AFE2B7900A06DA8 /* RMLocationViewController.swift */,
 				4FB39ACC2AFE2B8300A06DA8 /* RMEpisodeViewController.swift */,
